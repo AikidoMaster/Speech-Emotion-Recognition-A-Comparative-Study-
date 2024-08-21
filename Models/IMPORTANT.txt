@@ -1,0 +1,41 @@
+Download Link :   https://drive.google.com/drive/folders/1ADGpUYSKUxQ3Hy_HXgV4EzdRPzol-we_?usp=drive_link
+
+
+
+Steps to Access the Files
+Download the Folder:
+
+Download the full folder named "SER" from the link provided above.
+Upload to Google Drive:
+
+Upload the "SER" folder into your own Google Drive account.
+Access and Run:
+
+Open the "SER" folder in Google Drive. You can now:
+Directly access and run the .ipynb files on Google Colab.
+
+Alternatively, download the files and run them locally on your machine.
+Contents of the Folder
+
+The downloaded folder contains:
+
+Model Files
+
+model1.ipynb - Jupyter Notebook for Model 1.
+model2.ipynb - Jupyter Notebook for Model 2.
+model3.ipynb - Jupyter Notebook for Model 3.
+model1.pkl - Pretrained model 1.
+model2.pkl - Pretrained model 2.
+model3.pkl - Pretrained model 3.
+Dataset
+
+audio_actors_speech/ - Primary dataset folder containing audio files.
+sample.wav - Sample audio file for reference or testing.
+Notebooks
+
+preprocessing.ipynb - Jupyter Notebook for data preprocessing.
+x_train_test.ipynb - Jupyter Notebook for preparing training and testing datasets.
+audio_feature_extraction.ipynb - Jupyter Notebook for extracting audio features.
+Other Files
+
+features_dataset.csv - CSV file containing extracted features from the audio data.
