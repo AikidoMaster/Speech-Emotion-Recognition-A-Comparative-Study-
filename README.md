@@ -101,9 +101,3 @@ python evaluate_model.py --model cnn --test_data path/to/test/data
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License.
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/8138459/47b2f85a-b000-41a7-9c17-74dd93715188/FINAL_REPORT.pdf
